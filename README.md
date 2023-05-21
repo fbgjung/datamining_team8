@@ -1,9 +1,7 @@
 # datamining_team8
-
-## 프로젝트명
 ![stockimg](https://github.com/fbgjung/datamining_team8/assets/104186871/719e9ea8-a850-440d-8f6e-470bc33e611f)
 
-
+## 프로젝트명
 - 2030 올바른 주식투자 길잡이
 
 ## 프로젝트 소개
