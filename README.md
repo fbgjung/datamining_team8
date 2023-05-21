@@ -33,11 +33,16 @@
 
 ## 분석
 1. 분석 배경 및 목표
-<img width="690" alt="스크린샷 2023-05-21 오후 11 57 46" src="https://github.com/fbgjung/datamining_team8/assets/104186871/8a4068f6-aa12-449c-b9f1-a990c3115f01">
+<img width="680" alt="스크린샷 2023-05-22 오전 12 00 36" src="https://github.com/fbgjung/datamining_team8/assets/104186871/a6a4e097-9151-4490-a582-aaa4c68e68ea">
 
 2. 데이터
-3. 
-4. 
+<img width="680" alt="스크린샷 2023-05-22 오전 12 01 32" src="https://github.com/fbgjung/datamining_team8/assets/104186871/b9438ec2-e7ad-4f43-88af-aea6dfe2a878">
+
+3. 진행방향 소개
+<img width="680" alt="스크린샷 2023-05-22 오전 12 02 28" src="https://github.com/fbgjung/datamining_team8/assets/104186871/40167a39-226f-440b-bf57-5036027d13b6">
+
+5. 
+6. 
 
 
 ## 사용 툴
