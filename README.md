@@ -32,7 +32,7 @@
     - IT대표주의 분기별 재무제표, 손익계산서
 
 ## 분석
-1. 분석 배경 및 목표
+### 1. 분석 배경 및 목표
 <img width="680" alt="스크린샷 2023-05-22 오전 12 00 36" src="https://github.com/fbgjung/datamining_team8/assets/104186871/a6a4e097-9151-4490-a582-aaa4c68e68ea">
 
 2. 데이터
