@@ -35,11 +35,16 @@
 ### 1. 분석 배경 및 목표
 <img width="680" alt="스크린샷 2023-05-22 오전 12 00 36" src="https://github.com/fbgjung/datamining_team8/assets/104186871/a6a4e097-9151-4490-a582-aaa4c68e68ea">
 
-2. 데이터
+### 2. 데이터
 <img width="680" alt="스크린샷 2023-05-22 오전 12 01 32" src="https://github.com/fbgjung/datamining_team8/assets/104186871/b9438ec2-e7ad-4f43-88af-aea6dfe2a878">
 
-3. 진행방향 소개
+### 3. 진행방향 소개
 <img width="680" alt="스크린샷 2023-05-22 오전 12 02 28" src="https://github.com/fbgjung/datamining_team8/assets/104186871/40167a39-226f-440b-bf57-5036027d13b6">
+
+### 4. Step1. 주식 사전 구축
+<img width="680" alt="스크린샷 2023-05-22 오전 12 06 31" src="https://github.com/fbgjung/datamining_team8/assets/104186871/b181369a-3a7f-47ab-8333-3cecaa8fedd2">
+<img width="680" alt="스크린샷 2023-05-22 오전 12 08 28" src="https://github.com/fbgjung/datamining_team8/assets/104186871/17a9bc07-636f-4fd9-a0b3-516c81e87470">
+<img width="680" alt="스크린샷 2023-05-22 오전 12 10 33" src="https://github.com/fbgjung/datamining_team8/assets/104186871/79c2e8a7-bb7d-47a4-8564-1160393109fd">
 
 5. 
 6. 
