@@ -31,6 +31,11 @@
 3. 다트 데이터(2019~2022)
     - IT대표주의 분기별 재무제표, 손익계산서
 
+## 사용 툴
+- 언어 : Python
+- 환경 : Colab
+    - Colab이 코드를 구현하기에 가장 적합한 환경입니다.
+
 ## 분석
 ### 1. 분석 배경 및 목표
 <img width="680" alt="스크린샷 2023-05-22 오전 12 00 36" src="https://github.com/fbgjung/datamining_team8/assets/104186871/a6a4e097-9151-4490-a582-aaa4c68e68ea">
@@ -46,14 +51,24 @@
 <img width="680" alt="스크린샷 2023-05-22 오전 12 08 28" src="https://github.com/fbgjung/datamining_team8/assets/104186871/17a9bc07-636f-4fd9-a0b3-516c81e87470">
 <img width="680" alt="스크린샷 2023-05-22 오전 12 10 33" src="https://github.com/fbgjung/datamining_team8/assets/104186871/79c2e8a7-bb7d-47a4-8564-1160393109fd">
 
-5. 
-6. 
+
+<img width="680" alt="스크린샷 2023-05-22 오전 12 14 02" src="https://github.com/fbgjung/datamining_team8/assets/104186871/8f6518b1-1fd3-4960-8969-fcd07fb84231">
+<img width="680" alt="스크린샷 2023-05-22 오전 12 15 45" src="https://github.com/fbgjung/datamining_team8/assets/104186871/3a0e6da8-f75d-40ce-a750-6b77032ac99d">
+
+<img width="680" alt="스크린샷 2023-05-22 오전 12 17 25" src="https://github.com/fbgjung/datamining_team8/assets/104186871/f4ff8d49-a93e-4b21-93e4-0e1561f60224">
+
+### 5. Step2. 재무제표 상관관계 분석
+<img width="680" alt="스크린샷 2023-05-22 오전 12 20 17" src="https://github.com/fbgjung/datamining_team8/assets/104186871/50a880ad-b566-4786-83d6-c350905636ec">
+<img width="680" alt="스크린샷 2023-05-22 오전 12 22 03" src="https://github.com/fbgjung/datamining_team8/assets/104186871/b25ceb0c-c5de-427b-b087-92d41d69b36b">
+
+<img width="680" alt="스크린샷 2023-05-22 오전 12 22 33" src="https://github.com/fbgjung/datamining_team8/assets/104186871/d46c5b0a-bf4e-442b-9c7d-05b2fa4d6fe0">
+
+### 6. 결론
+<img width="680" alt="스크린샷 2023-05-22 오전 12 23 30" src="https://github.com/fbgjung/datamining_team8/assets/104186871/5a7396dc-8cb2-4a01-996a-a8db45b7b7c8">
+<img width="680" alt="스크린샷 2023-05-22 오전 12 23 32" src="https://github.com/fbgjung/datamining_team8/assets/104186871/33ee0e24-a6db-478b-8b24-299fa9054f73">
 
 
-## 사용 툴
-- 언어 : Python
-- 환경 : Colab
-    - Colab이 코드를 구현하기에 가장 적합한 환경입니다.
+
 
 
 
