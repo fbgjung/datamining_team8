@@ -1,5 +1,6 @@
 # datamining_team8
 ![stockimg](https://github.com/fbgjung/datamining_team8/assets/104186871/719e9ea8-a850-440d-8f6e-470bc33e611f)
+<img width="786" alt="스크린샷 2023-05-21 오후 11 48 28" src="https://github.com/fbgjung/datamining_team8/assets/104186871/67b54a41-4905-4fb1-84e5-a973af1434c5">
 
 ## 프로젝트명
 - 2030 올바른 주식투자 길잡이
