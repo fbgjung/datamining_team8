@@ -33,9 +33,11 @@
 
 ## 분석
 1. 분석 배경 및 목표
-<img width="585" alt="스크린샷 2023-05-21 오후 11 31 08" src="https://github.com/fbgjung/datamining_team8/assets/104186871/48e18bb8-94f0-4e92-a932-e601d4782780">
+<img width="690" alt="스크린샷 2023-05-21 오후 11 57 46" src="https://github.com/fbgjung/datamining_team8/assets/104186871/8a4068f6-aa12-449c-b9f1-a990c3115f01">
+
 2. 데이터
 3. 
+4. 
 
 
 ## 사용 툴
